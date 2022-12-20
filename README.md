@@ -15,7 +15,12 @@ Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali �
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ibmhndr&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Publications
+
+The Application Of Augmented Reality in Introducing Temples in Denpasar
+https://ojs.unud.ac.id/index.php/JLK/article/view/64457
+
+### 💡 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
