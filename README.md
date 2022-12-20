@@ -18,9 +18,6 @@ Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali �
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ibmhndr&icon=0&color=9)](https://visitcount.itsvg.in)
 
