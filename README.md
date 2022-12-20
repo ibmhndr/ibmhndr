@@ -17,7 +17,7 @@ Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali �
 
 ### ✍️ Publications
 
-The Application Of Augmented Reality in Introducing Temples in Denpasar
+The Application Of Augmented Reality in Introducing Temples in Denpasar,
 https://ojs.unud.ac.id/index.php/JLK/article/view/64457
 
 ### 💡 Random Dev Quote
