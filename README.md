@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali 🏙️<br><br>🚀 I’m currently focus on mobile application development<br>🔭 I'm interested in artificial intelligence especially field of computer vision<br>🏊🎸 Besides programming, I also love swimming and play some instrument<br>🧑‍💻 I’m open for collaborative project, let's have fun together<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: Love reading books but hard finding time to finish it 😁
+Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali 🏙️<br><br>🚀 I’m currently focus on mobile application development<br>🔭 I'm interested in artificial intelligence especially field of image and computer vision<br>🏊🎸 Besides programming, I also love swimming and play some instrument<br>🧑‍💻 I’m open for collaborative project, let's have fun together<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: Love reading books but hard finding time to finish it 😁
 
 
 ## 🌐 Socials:
