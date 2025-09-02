@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali 🏙️<br><br>🚀 I’m currently focus on web & mobile application development<br>🔭 I'm interested in artificial intelligence especially field of natural language processing, and have experience in image and computer vision<br>🏊🎸 Besides programming, I also love swimming and play some instrument<br>🧑‍💻 I’m open for collaborative project, let's have fun together<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: Love reading books but hard finding time to finish it 😁
-
+Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali 🏙️<br><br>🚀 I’m currently focus on web & mobile application development<br>🔭 I'm interested in artificial intelligence especially field of natural language processing, and have experience in image and computer vision<br>🏊🎸 Besides programming, I also love swimming and play some instrument<br>🧑‍💻 I’m open for collaborative project, let's have fun together<br>😄 Pronouns: he/him/his<br>⚡ Fun fact: Love reading multiple books at the same time, and hard finding time to finish it 😁
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ibmhndr/)
