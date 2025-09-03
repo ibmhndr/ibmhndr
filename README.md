@@ -21,6 +21,7 @@ Hello there 👋<br>I'm a software engineer at Djingga Media in Denpasar, Bali �
 
 The Application Of Augmented Reality in Introducing Temples in Denpasar,
 https://ojs.unud.ac.id/index.php/JLK/article/view/64457
+
 Comparison of Multinomial, Bernoulli, and Gaussian Naïve Bayes for Complaint Classification in Pro Denpasar Application,
 https://jurnalnasional.ump.ac.id/index.php/JUITA/article/view/24828
 
